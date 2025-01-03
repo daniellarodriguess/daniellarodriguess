@@ -1,5 +1,5 @@
 ## 🐱‍👓 Sobre mim. 
-Meu nome é Daniella, tenho 22 anos e, atualmente, estudo para o Enem - com o propósito de fazer Ciência da Computação - e faço curso técnico de Informática. Tendo isso em vista, meus estudos na área da tecnologia são voltados para Back-end e Front-end, isto é, no momento, me encontro estudando Java e HTML/CSS. Além disso, dedico-me à aprender novos idiomas e possuo o Inglês Intermediário para Avançado, diploma reconhecido pelo FCE, e o Espanhol Básico, diploma reconhecido pela UFMG. 
+Meu nome é Daniella, tenho 22 anos e, atualmente, estudo para o Enem - com o propósito de fazer Ciência da Computação - e faço um curso técnico de Informática. Tendo isso em vista, meus estudos na área da tecnologia são voltados para Back-end e Front-end, isto é, no momento, me encontro estudando Java e HTML/CSS. Além disso, dedico-me à aprender novos idiomas e possuo o Inglês Intermediário para Avançado, diploma reconhecido pelo FCE, e o Espanhol Básico, diploma reconhecido pela UFMG. 
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daniellarodriguess&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
