@@ -1,5 +1,5 @@
 ## 🐱‍👓 Sobre mim. 
-Meu nome é Daniella, tenho 22 anos e, atualmente, estudo para o Enem - com o propósito de fazer Ciência da Computação - e faço um curso técnico de Informática. Tendo isso em vista, meus estudos na área da tecnologia são voltados para Back-end e Front-end, isto é, no momento, me encontro estudando Java e HTML/CSS. Além disso, dedico-me à aprender novos idiomas e possuo o Inglês Intermediário para Avançado, diploma reconhecido pelo FCE, e o Espanhol Básico, diploma reconhecido pela UFMG. 
+Meu nome é Daniella, tenho 22 anos e, atualmente, faço um curso técnico de Informática, tendo em mente o início de uma faculdade de Ciência da Computação. Sendo assim, meus estudos na área da tecnologia são voltados, no momento, para Back-end, isto é, me encontro estudando Java. Além disso, dedico-me à aprender novos idiomas e possuo o Inglês Intermediário para Avançado, diploma reconhecido pelo FCE, e o Espanhol Básico, diploma reconhecido pela UFMG. 
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daniellarodriguess&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
@@ -17,4 +17,4 @@ Meu nome é Daniella, tenho 22 anos e, atualmente, estudo para o Enem - com o pr
 ## 🐱‍👤 Formas de contato e Redes Sociais.
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daniellarodriguess)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniella.rodrigues.1805@gmail.com)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/lamoni3er)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-bad)](https://www.linkedin.com/in/daniella-rodrigues-648357348/)
