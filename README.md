@@ -17,4 +17,4 @@ Meu nome é Daniella, tenho 22 anos e, atualmente, faço um curso técnico de In
 ## 🐱‍👤 Formas de contato e Redes Sociais.
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daniellarodriguess)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniella.rodrigues.1805@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-bad)](https://www.linkedin.com/in/daniella-rodrigues-648357348/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniella-rodrigues-648357348/)
