@@ -1,9 +1,9 @@
-## 🐱‍👓 Sobre mim. 
+## 🐱‍👓 Sobre mim
 Meu nome é Daniella, tenho 22 anos e, atualmente, faço um curso técnico de Informática, tendo em mente o início de uma faculdade de Ciência da Computação. Sendo assim, meus estudos na área da tecnologia são voltados, no momento, para Back-end, isto é, me encontro estudando Java. Além disso, dedico-me à aprender novos idiomas e possuo o Inglês Intermediário para Avançado, diploma reconhecido pelo FCE, e o Espanhol Básico, diploma reconhecido pela UFMG. 
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daniellarodriguess&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## 🐱‍💻 Minhas habilidades.
+## 🐱‍💻 Minhas habilidades
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,7 +17,7 @@ Meu nome é Daniella, tenho 22 anos e, atualmente, faço um curso técnico de In
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 ![Apache](https://img.shields.io/badge/Apache-CA2136?logo=apache&logoColor=white&style=for-the-badge)
 
-## 🐱‍👤 Formas de contato e Redes Sociais.
+## 🐱‍👤 Contato
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daniellarodriguess)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniella.rodrigues.1805@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniella-rodrigues-648357348/)
