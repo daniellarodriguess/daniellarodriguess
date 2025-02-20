@@ -13,6 +13,7 @@ Meu nome é Daniella, tenho 22 anos e, atualmente, faço um curso técnico de In
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![PHP](https://shields.io/badge/-PHP-3776AB?style=flat&logo=php)
 
 ## 🐱‍👤 Formas de contato e Redes Sociais.
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daniellarodriguess)
